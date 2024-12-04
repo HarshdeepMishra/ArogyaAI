@@ -1,0 +1,16 @@
+pyttsx3
+pypdf
+langchain
+torch
+os
+accelerate
+faiss_cpu
+ctransformers
+sentence_transformers
+bitsandbytes
+chainlit
+huggingface_hub
+langchain_community
+
+
+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
