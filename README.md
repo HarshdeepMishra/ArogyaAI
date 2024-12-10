@@ -11,3 +11,7 @@ This AI-powered health assistant is designed to provide comprehensive healthcare
 - Yoga Asanas
 - Allopathic Medicine
 
+## Technology Used
+- Langchain
+- Faiss CPU and DB
+- Llama 2 quantized model
