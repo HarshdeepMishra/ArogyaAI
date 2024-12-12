@@ -15,3 +15,4 @@ This AI-powered health assistant is designed to provide comprehensive healthcare
 - Langchain
 - Faiss CPU and DB
 - Llama 2 quantized model
+- Chainlit
